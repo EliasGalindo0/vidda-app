@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EliasGalindo0/vidda-app/static/css/main.7f5abe9c.css",
+    "main.js": "/EliasGalindo0/vidda-app/static/js/main.b95aff8d.js",
+    "static/js/787.1824ae94.chunk.js": "/EliasGalindo0/vidda-app/static/js/787.1824ae94.chunk.js",
+    "index.html": "/EliasGalindo0/vidda-app/index.html",
+    "main.7f5abe9c.css.map": "/EliasGalindo0/vidda-app/static/css/main.7f5abe9c.css.map",
+    "main.b95aff8d.js.map": "/EliasGalindo0/vidda-app/static/js/main.b95aff8d.js.map",
+    "787.1824ae94.chunk.js.map": "/EliasGalindo0/vidda-app/static/js/787.1824ae94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f5abe9c.css",
+    "static/js/main.b95aff8d.js"
+  ]
+}
