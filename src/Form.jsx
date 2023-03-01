@@ -4,11 +4,9 @@ import sendEmail from "./utils/sendEmail";
 export default function Form() {
   return (
     <>
-      <div>
-        <h1>Vidda Laboratório</h1>
-      </div>
       <div className='form_wrapper'>
         <form onSubmit={sendEmail}>
+          <h1>Vidda Laboratório</h1>
           <label for='vet'>Veterinário/Clínica:</label>
           <input type='text' name='vet' placeholder='Digite aqui' />
 
